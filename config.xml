@@ -30,10 +30,10 @@ Ana Luisa Cruz Lopez
 <plugin name= "cordova-plugin-vibration" spec="~2.1.3" />
 <plugin name= "cordova-plugin-dialogs" spec="~1.3.1" />
 
-<!--plugin para geolocalizar-->
+<!--Plugin para geolocalizar-->
 <plugin name="cordova-plugin-geolocation" spec="2.4.3" />
 
-<!--colocar icono app-->
+<!--Colocar icono app-->
 
 <icon src="res/android/mdpi.png"/>
 
